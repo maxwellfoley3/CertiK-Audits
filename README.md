@@ -8,7 +8,7 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |21shares.com           |3/25/20 10:53 |                  |
 |aave.com               |7/9/20 12:38  |                  |
 |aergo.io               |10/13/18 11:39|                  |
-|allianceblock.io       |09/01/20      | [Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/alliance_block/Alliance%20Block%20Audit%20Report%20CertiK.pdf)                 |
+|allianceblock.io       |09/01/20      | [Report for alliance_block](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/alliance_block/Alliance%20Block%20Audit%20Report%20CertiK.pdf)                 |
 |airbloc.org            |7/24/18 12:24 |                  |
 |akropolis.io           |1/22/20 12:06 |                  |
 |amaten.com             |1/9/20 9:57   |                  |
@@ -58,7 +58,7 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |elynet.io              |3/12/20 5:42  |                  |
 |er-x.io                |12/25/19 1:55 |                  |
 |ez365.io               |6/26/19 15:27 |                  |
-|fetch.ai               |08/17/20      | [Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/fetch_ai/fetch.pdf)                 |
+|fetch.ai               |08/17/20      | [Report for fetch.ai](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/fetch_ai/fetch.pdf)                 |
 |fetch.ai               |8/13/19 14:47 |                  |
 |firmachain.org         |6/25/20 0:35  |                  |
 |firmachain.org         |6/16/19 12:40 |                  |
@@ -169,7 +169,7 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |telco.in               |11/19/18 18:50|                  |
 |tellor.io              |6/19/20 13:03 |                  |
 |tellor.io              |5/15/19 10:53 |                  |
-|terra.money            |09/04/20      | [Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/terra/CertiK_TerraReport_signed.pdf)                 |
+|terra.money            |09/04/20      | [Report for terra.money](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/terra/CertiK_TerraReport_signed.pdf)                 |
 |theforceprotocol.com   |6/19/20 13:04 |                  |
 |theforceprotocol.com   |12/16/19 12:09|                  |
 |thorchain.org          |1/8/20 12:02  |                  |
