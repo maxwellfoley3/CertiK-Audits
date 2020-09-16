@@ -57,7 +57,7 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |elynet.io              |3/12/20 5:42  |                  |
 |er-x.io                |12/25/19 1:55 |                  |
 |ez365.io               |6/26/19 15:27 |                  |
-|fetch.ai               |12/31/19 13:21|                  |
+|fetch.ai               |12/31/19 13:21| [Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/fetch.ai/)                 |
 |fetch.ai               |8/13/19 14:47 |                  |
 |firmachain.org         |6/25/20 0:35  |                  |
 |firmachain.org         |6/16/19 12:40 |                  |
