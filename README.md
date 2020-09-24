@@ -8,20 +8,22 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |21shares.com           |3/25/20 10:53 |                  |
 |aave.com               |7/9/20 12:38  |                  |
 |aergo.io               |10/13/18 11:39|                  |
-|allianceblock.io       |09/01/20      | [Report for alliance_block](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/alliance_block/Alliance%20Block%20Audit%20Report%20CertiK.pdf)                 |
+|allianceblock.io       |09/01/20      |[Report for alliance_block](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-AllianceBlock-09_09_2020.pdf)                 |
 |airbloc.org            |7/24/18 12:24 |                  |
-|akropolis.io           |1/22/20 12:06 |                  |
+|akropolis.io           |1/22/20 12:06 |[Report for Acropolis](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Akropolis_Delphi-07_09_2020.pdf)                 |
 |amaten.com             |1/9/20 9:57   |                  |
 |amond.io               |2/1/19 11:56  |                  |
 |ampleforth.org         |5/1/20 14:25  |                  |
-|ampleforth.org         |1/8/20 15:14  |                  |
-|animocabrands.com      |5/4/20 16:19  |                  |
+|ampleforth.org         |1/8/20 15:14  |[Report for Ampleforth](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Ampleforth-04_05_2020.pdf)                 |
+|amunag                 |5/4/20 16:19  |[Report for AmunAg](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Amun-10_04_2020.pdf)                  |
+|animocabrands.com      |5/4/20 16:19  |[Report for Animoca](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Animoca_NFT_Staking-20_08_2020.pdf)                  |
 |ankr.com               |4/30/19 12:09 |                  |
 |aofex.com              |10/17/19 4:27 |                  |
 |apm-coin.com           |2/14/20 9:31  |                  |
 |astra.vip              |2/29/20 9:37  |                  |
 |atlasp.io              |7/22/18 14:21 |                  |
 |bankera.com            |1/31/19 12:05 |                  |
+|Bakery                 |17/09/20      |[Report for BakerySwap](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-BakerySwap-17_09_2020.pdf)|
 |berith.co              |3/25/20 11:35 |                  |
 |bgogo.com              |11/19/18 14:27|                  |
 |bibox.com              |11/19/18 14:29|                  |
@@ -33,7 +35,7 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |bodhi.network          |4/29/18 18:05 |                  |
 |bosagora.io            |1/8/20 14:22  |                  |
 |burency.io             |12/16/19 19:27|                  |
-|bzx.network            |7/8/20 16:10  |                  |
+|bzx.network            |7/8/20 16:10  |[Report for Bzx](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Bzx-04_09_2020.pdf)                  |
 |bzx.network            |3/5/20 12:19  |                  |
 |catex.io               |6/12/18 16:16 |                  |
 |celer.network          |8/22/18 18:15 |                  |
@@ -58,7 +60,7 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |elynet.io              |3/12/20 5:42  |                  |
 |er-x.io                |12/25/19 1:55 |                  |
 |ez365.io               |6/26/19 15:27 |                  |
-|fetch.ai               |08/17/20      | [Report for fetch.ai](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/fetch_ai/fetch.pdf)                 |
+|fetch.ai               |08/17/20      |[Report for fetch.ai](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-FetchAi-17_08_2020.pdf)                 |
 |fetch.ai               |8/13/19 14:47 |                  |
 |firmachain.org         |6/25/20 0:35  |                  |
 |firmachain.org         |6/16/19 12:40 |                  |
@@ -169,7 +171,7 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |telco.in               |11/19/18 18:50|                  |
 |tellor.io              |6/19/20 13:03 |                  |
 |tellor.io              |5/15/19 10:53 |                  |
-|terra.money            |09/04/20      | [Report for terra.money](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/terra/CertiK_TerraReport_signed.pdf)                 |
+|terra.money            |09/04/20      | [Report for terra.money](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Terra-04_09_2020.pdf)                 |
 |theforceprotocol.com   |6/19/20 13:04 |                  |
 |theforceprotocol.com   |12/16/19 12:09|                  |
 |thorchain.org          |1/8/20 12:02  |                  |
