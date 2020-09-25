@@ -8,7 +8,7 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |21shares.com           |3/25/20 10:53 |                  |
 |aave.com               |7/9/20 12:38  |                  |
 |aergo.io               |10/13/18 11:39|                  |
-|allianceblock.io       |09/01/20      |[Report for alliance_block](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-AllianceBlock-09_09_2020.pdf)                 |
+|allianceblock.io       |09/01/20      |[Report for Alliance_block](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-AllianceBlock-09_09_2020.pdf)                 |
 |airbloc.org            |7/24/18 12:24 |                  |
 |akropolis.io           |1/22/20 12:06 |[Report for Acropolis](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Akropolis_Delphi-07_09_2020.pdf)                 |
 |amaten.com             |1/9/20 9:57   |                  |
@@ -35,7 +35,7 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |bodhi.network          |4/29/18 18:05 |                  |
 |bosagora.io            |1/8/20 14:22  |                  |
 |burency.io             |12/16/19 19:27|                  |
-|bzx.network            |7/8/20 16:10  |[Report for Bzx](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Bzx-04_09_2020.pdf)                  |
+|bzx.network            |04_09_2020  |[Report for Bzx](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Bzx-04_09_2020.pdf)                  |
 |bzx.network            |3/5/20 12:19  |                  |
 |catex.io               |6/12/18 16:16 |                  |
 |celer.network          |8/22/18 18:15 |                  |
@@ -43,6 +43,7 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |chainup.com            |1/15/19 9:20  |                  |
 |chainz.cryptoid        |8/10/18 18:03 |                  |
 |cmcm.com               |7/10/18 1:00  |                  |
+|cojam.io               |14_08_2020    |[Report for Cojam](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Cojam-14_08_2020.pdf)                  |
 |odyssey.com            |8/10/18 17:47 |                  |
 |coinsuper.com          |11/19/18 18:37|                  |
 |cointiger.com          |11/19/18 18:37|                  |
@@ -54,6 +55,8 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |dapp.com               |8/31/19 10:18 |                  |
 |datx.co                |10/7/18 14:53 |                  |
 |dodream.org            |1/2/20 12:01  |                  |
+|Decentr.io|18_08_2020|[Report for Decentr](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Decentr-18_08_2020.pdf)|
+|Dollar Protocol|18_09_2020|[Report for Dollar](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Dollar_Protocol-18-09-2020.pdf)|
 |dropbit.app            |2/19/19 10:54 |                  |
 |e-money.com            |1/29/20 12:00 |                  |
 |early.betprotocol.com  |12/2/19 15:41 |                  |
