@@ -3,26 +3,26 @@ A complete list with all the companies/projects that the auditing team of CertiK
 
 
 |Client                                                     |Date           |Link to the report|
-|-----------------------------------------------------------|---------------|------------------|
+|-----------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------|
 |[12ships](https://12ships.com)                             |May 2019       |[Report]()        |
 |[21shares](https://21shares.com)                           |March 2020     |[Report]()                  |
 |[Aave](https://aave.com)                                   |July 2020      |[Report]()                 |
 |[Aergo](https://aergo.io)                                  |October 2018   |[Report]()                  |
-|[Alliance Block](https://allianceblock.io)                 |September 2020 |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-AllianceBlock-09_09_2020.pdf)        |
+|[Alliance Block](https://allianceblock.io)                 |September 2020 |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-AllianceBlock-09_09_2020.pdf)            |
 |[AirBloc](https://airbloc.io)                              |July 2018      |[Report]()                  |
-|[Akropolis](https://Akropolis.io)                          |September 2020 |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Akropolis_Delphi-07_09_2020.pdf)      |
+|[Akropolis](https://Akropolis.io)                          |September 2020 |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Akropolis_Delphi-07_09_2020.pdf)         |
 |[Amaten](https://amaten.com)                               |January 2020   |[Report]()                  |
 |[Amond](https://amond.io)                                  |February 2019  |[Report]()                  |
-|[Ampleforth](https://ampleforth.org)                       |May 2020       |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Ampleforth-04_05_2020.pdf)           |
-|[AmunAg](https://amunag.io)                                |April 2020     |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Amun-10_04_2020.pdf)                 |
-|[Animoca](https://animocabrands.com)                       |May 2020       |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Animoca_NFT_Staking-20_08_2020.pdf)  |
+|[Ampleforth](https://ampleforth.org)                       |May 2020       |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Ampleforth-04_05_2020.pdf)               |
+|[AmunAg](https://amunag.io)                                |April 2020     |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Amun-10_04_2020.pdf)                     |
+|[Animoca](https://animocabrands.com)                       |May 2020       |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Animoca_NFT_Staking-20_08_2020.pdf)      |
 |[Ankr](https://ankr.com)                                   |April 2019     |[Report]()                  |
 |[Aofex](https://aofex.com)                                 |October 2019   |[Report]()                  |
 |[Amp-Coin](https://apm-coin.com)                           |February 2019  |[Report]()                  |
 |[Astra](https://astra.vip)                                 |February 2020  |[Report]()                  |
 |[AtlasP](https://atlasp.io)                                |July 2018      |[Report]()                  |
 |[Bankera](https://bankera.com)                             |January 2019   |[Report]()                  |
-|[BakerySwap]()                                             |September 2020 |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-BakerySwap-17_09_2020.pdf)           |
+|[BakerySwap]()                                             |September 2020 |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-BakerySwap-17_09_2020.pdf)               |
 |[Berith](https://berith.co)                                |March 2020     |[Report]()                  |
 |[Bgogo](https://bgogo.com)                                 |November 2018  |[Report]()                  |
 |[Bibox](https://bibox.com)                                 |November 2018  |[Report]()                  |
@@ -34,7 +34,7 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |[Bodhi.network](https://bodhi.network)                     |April 2018     |[Report]()                  |
 |[Bosagora](https://bosagora.io)                            |January 2020   |[Report]()                  |
 |[Burency](https://burency.io)                              |December 2019  |[Report]()                  |
-|[Bzx.Network](https://bzx.network)                         |September 2020 |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Bzx-04_09_2020.pdf)                  |
+|[Bzx.Network](https://bzx.network)                         |September 2020 |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Bzx-04_09_2020.pdf)                      |   
 |[bzx.network](https://bzx.network)                         |March 2020     |[Report]()                  |
 |[Catex](https://catex.io)                                  |June 2018      |[Report]()                  |
 |[Celer.Network](https://celer.network)                     |August 2018    |[Report]()                  |
@@ -42,7 +42,7 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |[Chainup](https://chainup.com)                             |January 2019   |[Report]()                  |
 |[Chainz.Cryptoid](https://chainz.cryptoid)                 |August 2018    |[Report]()                  |
 |[Cmcm.com](https://cmcm.com)                               |July 2018      |[Report]()                  |
-|[Cojam](https://cojam.io)                                  |August 2020    |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Cojam-14_08_2020.pdf)                |
+|[Cojam](https://cojam.io)                                  |August 2020    |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Cojam-14_08_2020.pdf)                    |
 |[Odyssey](https://odyssey.com)                             |August 2018    |[Report]()                  |
 |[Coinsuper](https://coinsuper.com)                         |November 2018  |[Report]()                  |
 |[Cointiger](https://cointiger.com)                         |November 2018  |[Report]()                  |
@@ -54,15 +54,15 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |[Dapp.com](https://dapp.com)                               |August 2019    |[Report]()                  |
 |[Datx](https://datx.co)                                    |October 2018   |[Report]()                  |
 |[Dodream](https://dodream.org)                             |January 2020   |[Report]()                  |
-|[Decentr](https://Decentr.io)                              |August 2020    |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Decentr-18_08_2020.pdf)              |
-|[DollarProtocol]()                                         |September 2020 |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Dollar_Protocol-18-09-2020.pdf)      |
+|[Decentr](https://Decentr.io)                              |August 2020    |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Decentr-18_08_2020.pdf)                  |
+|[DollarProtocol]()                                         |September 2020 |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Dollar_Protocol-18-09-2020.pdf)          |
 |[Dropbit](https://dropbit.app)                             |Febuary 2019   |[Report]()                  |
 |[E-money](https://e-money.com)                             |January 2020   |[Report]()                  |
 |[Early.Betprotocol](https://early.betprotocol.com)         |December 2019  |[Report]()                  |
 |[Elynet](https://elynet.io)                                |March 2020     |[Report]()                  |
 |[Er-x](https://er-x.io)                                    |December 2019  |[Report]()                  |
 |[Ez365](https://ez365.io)                                  |June 2019      |[Report]()                  |
-|[Fetch.ai](https://fetch.ai)                               |August 2020    |[Report for fetch.ai](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-FetchAi-17_08_2020.pdf) |
+|[Fetch.ai](https://fetch.ai)                               |August 2020    |[Report for fetch.ai](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-FetchAi-17_08_2020.pdf)     |
 |[Fetch.ai](https://fetch.ai)                               |August 2019    |[Report]()                  |
 |[Firmachain](https://firmachain.org)                       |June 2020      |[Report]()                  |
 |[Firmachain](https://firmachain.org)                       |June 2019      |[Report]()                  |
@@ -173,7 +173,7 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |[Telco](https://telco.in)                                  |November 2018  |[Report]()                  |
 |[Tellor](https://tellor.io)                                |June 2020      |[Report]()                  |
 |[Tellor](https://tellor.io)                                |May 2019       |[Report]()                  |
-|[Terra.money](https://terra.money)                         |September 2020 |[Report for terra.money](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Terra-04_09_2020.pdf)                 |
+|[Terra.money](https://terra.money)                         |September 2020 |[Report for terra.money](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Terra-04_09_2020.pdf)    |
 |[Theforceprotocol](https://theforceprotocol.com)           |June 2020      |[Report]()                  |
 |[Theforceprotocol](https://theforceprotocol.com)           |December 2019  |[Report]()                  |
 |[Thorchain](https://thorchain.org)                         |January 2020   |[Report]()                  |
