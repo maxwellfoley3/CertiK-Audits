@@ -4,9 +4,9 @@ A complete list with all the companies/projects that the auditing team of CertiK
 
 |Client                                                     |Date           |Link to the report|
 |-----------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|[12ships](https://12ships.com)                             |May 2019       |[Report]()        |
+|[12ships](https://12ships.com)                             |May 2019       |[Report]()                  |
 |[21shares](https://21shares.com)                           |March 2020     |[Report]()                  |
-|[Aave](https://aave.com)                                   |July 2020      |[Report]()                 |
+|[Aave](https://aave.com)                                   |July 2020      |[Report]()                  |
 |[Aergo](https://aergo.io)                                  |October 2018   |[Report]()                  |
 |[Alliance Block](https://allianceblock.io)                 |September 2020 |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-AllianceBlock-09_09_2020.pdf)            |
 |[AirBloc](https://airbloc.io)                              |July 2018      |[Report]()                  |
@@ -62,7 +62,7 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |[Elynet](https://elynet.io)                                |March 2020     |[Report]()                  |
 |[Er-x](https://er-x.io)                                    |December 2019  |[Report]()                  |
 |[Ez365](https://ez365.io)                                  |June 2019      |[Report]()                  |
-|[Fetch.ai](https://fetch.ai)                               |August 2020    |[Report for fetch.ai](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-FetchAi-17_08_2020.pdf)     |
+|[Fetch.ai](https://fetch.ai)                               |August 2020    |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-FetchAi-17_08_2020.pdf)                  |
 |[Fetch.ai](https://fetch.ai)                               |August 2019    |[Report]()                  |
 |[Firmachain](https://firmachain.org)                       |June 2020      |[Report]()                  |
 |[Firmachain](https://firmachain.org)                       |June 2019      |[Report]()                  |
@@ -167,13 +167,13 @@ A complete list with all the companies/projects that the auditing team of CertiK
 |[Supertree](https://supertree.co)                          |April 2020     |[Report]()                  |
 |[Supertree](https://supertree.co)                          |February 2019  |[Report]()                  |
 |[Swipe](https://swipe.io)                                  |August 2019    |[Report]()                  |
-|[Swipe](https://swipe.io)                                  |August 2019    |[Report]()                 |
+|[Swipe](https://swipe.io)                                  |August 2019    |[Report]()                  |
 |[Tauschbloc](https://tauschbloc.com)                       |September 2019 |[Report]()                  |
 |[Taxa.network](https://taxa.network)                       |June 2019      |[Report]()                  |
 |[Telco](https://telco.in)                                  |November 2018  |[Report]()                  |
 |[Tellor](https://tellor.io)                                |June 2020      |[Report]()                  |
 |[Tellor](https://tellor.io)                                |May 2019       |[Report]()                  |
-|[Terra.money](https://terra.money)                         |September 2020 |[Report for terra.money](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Terra-04_09_2020.pdf)    |
+|[Terra.money](https://terra.money)                         |September 2020 |[Report](https://github.com/certikfoundation-shared/CertiK-Audit-Work/blob/master/reports/REP-Terra-04_09_2020.pdf)                    |
 |[Theforceprotocol](https://theforceprotocol.com)           |June 2020      |[Report]()                  |
 |[Theforceprotocol](https://theforceprotocol.com)           |December 2019  |[Report]()                  |
 |[Thorchain](https://thorchain.org)                         |January 2020   |[Report]()                  |
